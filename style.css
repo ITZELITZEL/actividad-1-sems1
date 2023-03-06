@@ -1,0 +1,25 @@
+body {
+    background-color: #FDE2D5;
+    font-family: 'Comiccomoc', sans-serif;                                          
+    }
+    
+    h1{
+        color: black;
+    }
+    th{
+        background-color: #6CECBF;
+    }
+    table{
+        margin-left: 420px;
+        
+    }
+    img{
+    margin:15px 15px 15px 15px;
+    }
+    titulo1{
+        font-family: 'Levitation', sans-serif;                                       
+            font-size: 50px;
+            color: #8F74F3;
+            text-align: center;                                       
+    }
+                                     
